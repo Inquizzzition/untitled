@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/CLionProjects/untitled/Perceptron.h
+inqmath.h
+H:/CLionProjects/untitled/inqmath.h
+vector
+-
+
+H:/CLionProjects/untitled/inqmath.h
+vector
+-
+cmath
+-
+random
+-
+
+H:/CLionProjects/untitled/main.cpp
+iostream
+-
+Perceptron.h
+H:/CLionProjects/untitled/Perceptron.h
+

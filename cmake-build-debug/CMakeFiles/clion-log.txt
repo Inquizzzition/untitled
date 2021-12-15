@@ -1,0 +1,4 @@
+C:\JetBrains\Tools\apps\CLion\ch-0\212.4746.93\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - NMake Makefiles" H:\CLionProjects\untitled
+-- Configuring done
+-- Generating done
+-- Build files have been written to: H:/CLionProjects/untitled/cmake-build-debug
